@@ -8,6 +8,7 @@ Name | Description
 DateTime | Extension of Date object
 environment | Determines the current environment
 extend | Extends an object with another variable
+files | Executes a callback function for all available files in a dir and it's sub-dirs and then returns a promise
 getter | Returns a specific property or sub property from an object using dot concatenation
 isObject | Checks if a variable is an object
 logger | Extension of console object
