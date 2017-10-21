@@ -6,6 +6,7 @@ module.exports = {
   extend: require( __dirname + '/extend' ),
   files: require( __dirname + '/files' ),
   getter: require( __dirname + '/getter' ),
+  hash: require( __dirname + '/hash' ),
   isObject: require( __dirname + '/isobject' ),
   logger: require( __dirname + '/logger' ),
   loop: require( __dirname + '/loop' ),
